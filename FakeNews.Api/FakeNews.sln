@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeNews.Api", "FakeNews.Api.csproj", "{AC7C9D67-3623-44E4-AED3-077EA40F5B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B51BDD-BE07-4074-873F-9806E0138D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B51BDD-BE07-4074-873F-9806E0138D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B51BDD-BE07-4074-873F-9806E0138D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B51BDD-BE07-4074-873F-9806E0138D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7C9D67-3623-44E4-AED3-077EA40F5B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7C9D67-3623-44E4-AED3-077EA40F5B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7C9D67-3623-44E4-AED3-077EA40F5B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7C9D67-3623-44E4-AED3-077EA40F5B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9E02F2-1CBB-4CBE-802C-2135878C1B12}
+	EndGlobalSection
+EndGlobal
