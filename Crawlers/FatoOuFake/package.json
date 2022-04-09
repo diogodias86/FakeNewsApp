@@ -12,6 +12,6 @@
   "dependencies": {
     "apify": "^0.17.0",
     "crawler": "^1.2.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
